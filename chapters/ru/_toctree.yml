@@ -88,3 +88,9 @@
     title: Введение
   - local: chapter6/2
     title: Обучение токенизатора на основе существующего
+  - local: chapter6/3
+    title: Специальные возможности быстрых токенизаторов
+  - local: chapter6/4
+    title: Нормализация и предварительная токенизация
+  - local: chapter6/5
+    title: Токенизация с помощью Byte-Pair Encoding

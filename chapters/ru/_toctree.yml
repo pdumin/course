@@ -97,6 +97,8 @@
     title: Нормализация и предварительная токенизация
   - local: chapter6/5
     title: Токенизация с помощью Byte-Pair Encoding
+  - local: chapter6/6
+    title: Токенизация WordPiece
 - title: Глоссарий
   sections:
   - local: glossary/1
